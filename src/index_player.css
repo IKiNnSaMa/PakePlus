@@ -1,0 +1,13 @@
+footer {
+	display: flex;
+	justify-content: center;
+	flex-direction: row;
+	align-items: center;
+}
+
+footer > div#player-img {
+	height: 6rem;
+    width: 6rem;
+    background-color: gray;
+}
+
